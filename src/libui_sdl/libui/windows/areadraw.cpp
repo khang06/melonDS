@@ -100,7 +100,7 @@ static void onWM_PAINT(uiArea *a)
 		clip.bottom = 0;
 	}
 	hr = doPaint(a, a->rt, &clip);
-	switch (hr) {
+	switch ((DWORD)hr) {
 	case S_OK:
 		if (ValidateRect(a->hwnd, NULL) == 0)
 			logLastError(L"error validating rect");

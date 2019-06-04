@@ -6,3 +6,4 @@ obj
 melon_grc.c
 melon_grc.h
 cmake-build
+build

@@ -12,11 +12,22 @@ SET(SOURCES_LIBUI
 	DlgVideoSettings.cpp
 	DlgWifiSettings.cpp
 	OSD.cpp
+	melondbg/melondbg.cpp
+	imgui/imgui.cpp
+	imgui/imgui_demo.cpp
+	imgui/imgui_draw.cpp
+	imgui/imgui_widgets.cpp
+	imgui/examples/imgui_impl_glfw.cpp
+	imgui/examples/imgui_impl_opengl3.cpp
 )
+
+add_definitions(-DIMGUI_IMPL_OPENGL_LOADER_GLAD)
 
 option(BUILD_SHARED_LIBS "Whether to build libui as a shared library or a static library" ON)
 set(BUILD_SHARED_LIBS OFF)
 add_subdirectory(libui)
+
+add_subdirectory(glad)
 
 find_package(SDL2 REQUIRED)
 include_directories(${SDL2_INCLUDE_DIR})
@@ -24,7 +35,7 @@ include_directories(${SDL2_INCLUDE_DIR})
 
 add_executable(melonDS ${SOURCES_LIBUI})
 target_link_libraries(melonDS
-	core ${SDL2_LIBRARIES} libui)
+	core ${SDL2_LIBRARIES} libui glad)
 
 if (UNIX)
 	find_package(PkgConfig REQUIRED)

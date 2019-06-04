@@ -89,7 +89,7 @@ static LRESULT CALLBACK d2dScratchWndProc(HWND hwnd, UINT uMsg, WPARAM wParam, L
 		break;
 	case WM_PAINT:
 		hr = d2dScratchDoPaint(hwnd, rt);
-		switch (hr) {
+		switch ((DWORD)hr) {
 		case S_OK:
 			if (ValidateRect(hwnd, NULL) == 0)
 				logLastError(L"error validating D2D scratch control rect");

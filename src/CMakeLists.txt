@@ -26,8 +26,11 @@ add_library(core STATIC
 	WifiAP.cpp
 )
 
+find_package(OpenGL REQUIRED)
+find_package(glfw3 3.3 REQUIRED)
+
 if (WIN32)
-	target_link_libraries(core ole32 comctl32 ws2_32 opengl32)
+	target_link_libraries(core ole32 comctl32 ws2_32 ${OPENGL_gl_LIBRARY} glfw)
 else()
-	target_link_libraries(core GL EGL)
+	target_link_libraries(core ${OPENGL_gl_LIBRARY} glfw)
 endif()

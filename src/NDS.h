@@ -214,4 +214,12 @@ void ARM7IOWrite32(u32 addr, u32 val);
 
 }
 
+#ifndef ARM_H
+#include "ARM.h"
+namespace NDS {
+extern ARMv5* ARM9;
+extern ARMv4* ARM7;
+}
+#endif
+
 #endif // NDS_H

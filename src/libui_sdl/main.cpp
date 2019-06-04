@@ -48,6 +48,8 @@
 
 #include "OSD.h"
 
+#include "melondbg/melondbg.h"
+
 
 // savestate slot mapping
 // 1-8: regular slots (quick access)
@@ -849,6 +851,7 @@ void UpdateFPSLimit(void* data)
 int EmuThreadFunc(void* burp)
 {
     NDS::Init();
+    melonDBG::StartThread();
 
     MainScreenPos[0] = 0;
     MainScreenPos[1] = 0;
@@ -1033,6 +1036,7 @@ int EmuThreadFunc(void* burp)
 
     if (Screen_UseGL) uiGLMakeContextCurrent(GLContext);
 
+    melonDBG::StopThread();
     NDS::DeInit();
     Platform::LAN_DeInit();
 
