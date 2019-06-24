@@ -8,6 +8,10 @@ endif()
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
 
+if ("${CMAKE_CXX_COMPILER_ID}" STREQUAL "Clang")
+    add_compile_options (-fcolor-diagnostics)
+endif ()
+
 project(melonDS)
 
 if(NOT CMAKE_BUILD_TYPE)
@@ -21,7 +25,7 @@ else()
 endif()
 
 if(ENABLE_LTO)
-	add_compile_options(-O3 -flto)
+	add_compile_options(-O3)
 endif()
 
 add_compile_options(-fno-pic)

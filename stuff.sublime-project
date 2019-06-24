@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"ecc_flags_sources":
+		[
+			{
+				"file": "CMakeLists.txt"
+			}
+		],
+		"ecc_use_libclang": true,
+		"easy_clang_complete_verbose": true,
+		"ecc_common_flags": [
+			"-IC:\\msys64\\mingw64\\include",
+			"-I$project_path/src",
+			"-I$project_path/src/libui_sdl",
+			"-I$project_path/src/libui_sdl/glad/include",
+			"-I$project_path/src/libui_sdl/melondbg",
+		]
+	}
+}

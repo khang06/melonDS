@@ -13,6 +13,10 @@ SET(SOURCES_LIBUI
 	DlgWifiSettings.cpp
 	OSD.cpp
 	melondbg/melondbg.cpp
+	melondbg/registers.cpp
+	melondbg/memoryeditor.cpp
+	melondbg/window.cpp
+	melondbg/disassembler.cpp
 	imgui/imgui.cpp
 	imgui/imgui_demo.cpp
 	imgui/imgui_draw.cpp
@@ -32,6 +36,8 @@ add_subdirectory(glad)
 find_package(SDL2 REQUIRED)
 include_directories(${SDL2_INCLUDE_DIR})
 #string(STRIP ${SDL2_LIBRARIES} SDL2_LIBRARIES)
+
+# TODO: Find a way for CMake to find Capstone
 
 add_executable(melonDS ${SOURCES_LIBUI})
 target_link_libraries(melonDS
@@ -65,7 +71,7 @@ if (UNIX)
 elseif (WIN32)
 	target_sources(melonDS PUBLIC "${CMAKE_SOURCE_DIR}/melon.rc")
 	target_include_directories(melonDS PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/..")
-	target_link_libraries(melonDS comctl32 d2d1 dwrite uxtheme ws2_32 iphlpapi)
+	target_link_libraries(melonDS comctl32 d2d1 dwrite uxtheme ws2_32 iphlpapi capstone)
 endif ()
 
 install(TARGETS melonDS RUNTIME DESTINATION ${CMAKE_INSTALL_PREFIX}/bin)

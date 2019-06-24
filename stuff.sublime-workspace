@@ -1,0 +1,1330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"include",
+				"include_directories\tcommand"
+			],
+			[
+				"Memor",
+				"MemoryEditorWindow"
+			],
+			[
+				"Mem",
+				"MemoryEditorWindow"
+			],
+			[
+				"mem_edit",
+				"mem_editors"
+			],
+			[
+				"MA",
+				"MainRAM\tu8 [4194304] MainRAM"
+			],
+			[
+				"show_a",
+				"show_arm7_registers"
+			],
+			[
+				"melon",
+				"melonDBG"
+			],
+			[
+				"horizo",
+				"horizontalLineFormat"
+			],
+			[
+				"verti",
+				"verticalLineFormat"
+			],
+			[
+				"i1",
+				"i1"
+			],
+			[
+				"point",
+				"pointSlopeFormat"
+			],
+			[
+				"exp",
+				"expression"
+			],
+			[
+				"express",
+				"expressions"
+			],
+			[
+				"P",
+				"Println"
+			],
+			[
+				"desmos",
+				"desmosExpression"
+			],
+			[
+				"rand",
+				"randSource"
+			],
+			[
+				"expression",
+				"expression_type"
+			],
+			[
+				"template",
+				"template_index"
+			],
+			[
+				"dirlist",
+				"dirlistCssHandler"
+			],
+			[
+				"static",
+				"staticFileHandler"
+			],
+			[
+				"cache",
+				"cacheClient"
+			],
+			[
+				"table",
+				"tableheader"
+			],
+			[
+				"thr",
+				"thread_counter"
+			],
+			[
+				"R32_G",
+				"R32_G32_uInt"
+			],
+			[
+				"patch",
+				"patchlist_value"
+			],
+			[
+				"temp",
+				"template_json"
+			],
+			[
+				"tem",
+				"template_file"
+			],
+			[
+				"S2",
+				"S2VERSTR"
+			],
+			[
+				"S2VER",
+				"S2VERSTR"
+			],
+			[
+				"S2V",
+				"S2VER"
+			],
+			[
+				"html",
+				"htmlvar00004"
+			],
+			[
+				"__sd",
+				"__sd0_sdhc"
+			],
+			[
+				"vert",
+				"verts_indices"
+			],
+			[
+				"cstd",
+				"cstdio\tstandard header"
+			],
+			[
+				"enc",
+				"enc_aes_key"
+			],
+			[
+				"de",
+				"decrypt_some_rsa_key"
+			],
+			[
+				"stage",
+				"stagescene_addr"
+			],
+			[
+				"main",
+				"main_base_addr"
+			],
+			[
+				"print",
+				"print_ret_addr"
+			],
+			[
+				"thre",
+				"thread_run_msg"
+			],
+			[
+				"bgm",
+				"bgm_frame_speed"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"sample",
+				"sample_data"
+			],
+			[
+				"samp",
+				"sample_rate"
+			],
+			[
+				"author",
+				"author_utf8"
+			],
+			[
+				"PROJEC",
+				"PROJECT_SOURCE_DIR\tbuiltin"
+			],
+			[
+				"cmake_",
+				"cmake_minimum_required\tcommand"
+			],
+			[
+				"inbo",
+				"inbox_msg_json"
+			],
+			[
+				"inbox",
+				"inbox_msg_json"
+			],
+			[
+				"message",
+				"messageID"
+			],
+			[
+				"inbox_msg",
+				"inbox_msg_json"
+			],
+			[
+				"black",
+				"blackboard_headers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/libui_sdl/melondbg/memoryeditor.cpp",
+			"settings":
+			{
+				"buffer_size": 652,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/libui_sdl/melondbg/window.h",
+			"settings":
+			{
+				"buffer_size": 455,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/libui_sdl/melondbg/window.cpp",
+			"settings":
+			{
+				"buffer_size": 589,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "#include <string>"
+			}
+		},
+		{
+			"file": "src/libui_sdl/imgui/imgui_demo.cpp",
+			"settings":
+			{
+				"buffer_size": 232941,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/libui_sdl/melondbg/registers.cpp",
+			"settings":
+			{
+				"buffer_size": 950,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/libui_sdl/melondbg/registers.h",
+			"settings":
+			{
+				"buffer_size": 314,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/libui_sdl/melondbg/memoryeditor.h",
+			"settings":
+			{
+				"buffer_size": 277,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/libui_sdl/melondbg/disassembler.cpp",
+			"settings":
+			{
+				"buffer_size": 2033,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Windows/System32/drivers/etc/hosts",
+			"settings":
+			{
+				"buffer_size": 827,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/ProgramData/ShokoServer/settings.json",
+			"settings":
+			{
+				"buffer_size": 4167,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/zehn/skins/Zehn/scripts/helpers.js",
+			"settings":
+			{
+				"buffer_size": 17000,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/zehn/skins/Zehn/scripts/common.js",
+			"settings":
+			{
+				"buffer_size": 380,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/zehn/skins/Zehn/scripts/button.js",
+			"settings":
+			{
+				"buffer_size": 1371,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/zehn/skins/Zehn/scripts/guiext.js",
+			"settings":
+			{
+				"buffer_size": 6968,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/zehn/skins/Zehn/scripts/lodash.min.js",
+			"settings":
+			{
+				"buffer_size": 52647,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/zehn/skins/Zehn/scripts/panel.js",
+			"settings":
+			{
+				"buffer_size": 8517,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/smb2maglx3/SMBX2 MAGLX3/data/scripts/blocks/newblocks.lua",
+			"settings":
+			{
+				"buffer_size": 30490,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/foobar2000/themes/eole/js/WSHlibrary_tree.js",
+			"settings":
+			{
+				"buffer_size": 192029,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Khang/AppData/Roaming/yuzu/load/010000A00218E000/dbgsetting/exefs/patches.pchtxt",
+			"settings":
+			{
+				"buffer_size": 366,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/zehn/skins/Zehn/scripts/rating.js",
+			"settings":
+			{
+				"buffer_size": 1818,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 224.0,
+		"history":
+		[
+			"view.encoding()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Github/melonDS",
+		"/D/Github/melonDS/src",
+		"/D/Github/melonDS/src/libui_sdl",
+		"/D/Github/melonDS/src/libui_sdl/glad",
+		"/D/Github/melonDS/src/libui_sdl/glad/include",
+		"/D/Github/melonDS/src/libui_sdl/glad/include/glad",
+		"/D/Github/melonDS/src/libui_sdl/glad/include/KHR",
+		"/D/Github/melonDS/src/libui_sdl/glad/src",
+		"/D/Github/melonDS/src/libui_sdl/imgui",
+		"/D/Github/melonDS/src/libui_sdl/melondbg"
+	],
+	"file_history":
+	[
+		"/C/Program Files (x86)/foobar2000/themes/eole/js/WSHgraphicbrowser.js",
+		"/C/Users/Khang/AppData/Roaming/foobar2000/user-components/foo_ui_hacks/UIHacks.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41510.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41508.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41509.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41511.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41512.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41513.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41514.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41515.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41516.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41517.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41518.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41519.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41520.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41521.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41522.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41523.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41528.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41530.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41531.js",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41536.js",
+		"/D/Github/melonDS/src/libui_sdl/melondbg/melondbg.cpp",
+		"/D/Github/melonDS/src/libui_sdl/melondbg/disassembler.h",
+		"/D/Github/melonDS/src/libui_sdl/imgui/imgui_demo.cpp",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41506.html",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41503.html",
+		"/D/sadgsafasdfasdfsdafasdfadssdafasdffasdasdffasd/41502.html",
+		"/D/gaming.py",
+		"/H/codes/RSBE01.gct",
+		"/D/Github/melonDS/src/libui_sdl/imgui/imgui.h",
+		"/D/Github/melonDS/src/NDS.h",
+		"/D/Github/melonDS/src/NDS.cpp",
+		"/D/Github/melonDS/src/libui_sdl/CMakeLists.txt",
+		"/D/Github/melonDS/src/libui_sdl/imgui/imgui_memory_editor.h",
+		"/D/Github/melonDS/src/libui_sdl/imgui/imgui.cpp",
+		"/D/Github/melonDS/src/libui_sdl/melondbg/window.h",
+		"/D/Github/melonDS/src/libui_sdl/OSD.cpp",
+		"/D/switch-projects/get_main_base_addr/source/main.cpp",
+		"/D/Github/melonDS/CMakeLists.txt",
+		"/D/Github/melonDS/src/libui_sdl/glad/src/glad.c",
+		"/D/Github/melonDS/src/libui_sdl/imgui/examples/imgui_impl_opengl3.cpp",
+		"/D/Github/melonDS/src/libui_sdl/main.cpp",
+		"/D/Github/melonDS/src/libui_sdl/glad/CMakeLists.txt",
+		"/D/Github/melonDS/stuff.sublime-project",
+		"/C/msys64/usr/share/cmake-3.14.5/Modules/FindOpenGL.cmake",
+		"/D/Github/melonDS/src/libui_sdl/libui/CMakeLists.txt",
+		"/C/msys64/usr/share/cmake-3.14.5/Modules/Platform/MSYS.cmake",
+		"/C/Users/bfce/AppData/Roaming/Sublime Text 3/Packages/EasyClangComplete/EasyClangComplete.sublime-settings",
+		"/C/Users/bfce/AppData/Roaming/Sublime Text 3/Packages/EasyClangComplete/Preferences.sublime-settings",
+		"/D/Github/melonDS/melonDBG.sublime-project",
+		"/D/Github/melonDS/src/CP15.cpp",
+		"/D/Github/melonDS/src/ARM_InstrTable.h",
+		"/D/Github/melonDS/src/ARMInterpreter.cpp",
+		"/D/Github/melonDS/src/libui_sdl/melondbg/registers.h",
+		"/D/Github/melonDS/src/libui_sdl/melondbg/registers.cpp",
+		"/D/Github/melonDS/src/ARM.cpp",
+		"/D/Github/melonDS/src/CMakeLists.txt",
+		"/D/Github/melonDS/.gitignore",
+		"/C/msys64/mingw64/lib/cmake/glfw3/glfw3Targets.cmake",
+		"/D/Github/melonDS/src/libui_sdl/imgui/examples/imgui_impl_glfw.cpp",
+		"/D/Github/melonDS/src/libui_sdl/glad/include/KHR/khrplatform.h",
+		"/D/Github/melonDS/src/libui_sdl/glad/include/glad/glad.h",
+		"/C/msys64/mingw64/lib/cmake/SDL2/sdl2-config.cmake",
+		"/D/Github/melonDS/src/libui_sdl/MelonDBG_Main.cpp",
+		"/D/Github/melonDS/src/libui_sdl/MelonDBG_Main.h",
+		"/D/Github/melonDS/src/libui_sdl/libui/windows/areadraw.cpp",
+		"/D/Github/melonDS/build/src/libui_sdl/CMakeFiles/melonDS.dir/build.make",
+		"/D/Github/melonDS/src/libui_sdl/libui/windows/d2dscratch.cpp",
+		"/D/Github/melonDS/build/src/libui_sdl/CMakeFiles/melonDS.dir/depend.internal",
+		"/D/asfddsfdsfdssfsf/server.properties",
+		"/D/Github/zydis/msvc/ZycoreExportConfig.h",
+		"/C/msys64/mingw64/include/errno.h",
+		"/D/components/transparency.scss",
+		"/D/components/titlebar.scss",
+		"/D/components/font.scss",
+		"/D/components/Classes.scss",
+		"/D/Github/powercord/src/Powercord/themes/test.scss",
+		"/D/Github/powercord/src/Powercord/themes/test.css",
+		"/D/input2.js",
+		"/D/svg2desmos/mathutils.go",
+		"/C/Users/bfce/go/go-site-project/main.go",
+		"/D/input.js",
+		"/D/game-5-23-2019.js",
+		"/D/jstris_deobf.js",
+		"/D/jstris_static_map.txt",
+		"/D/jstris_deobf_output.js",
+		"/C/Users/bfce/go/go-site-project/template_dirlist.html",
+		"/C/Users/bfce/go/go-site-project/dirlist.css",
+		"/D/Github/Starlight/include/agl/TextureData.h",
+		"/D/Github/Starlight/patches/example.pchdefs",
+		"/D/Github/Starlight/include/agl/util.h",
+		"/D/Github/Starlight/include/agl/DrawContext.h",
+		"/D/Github/Starlight/include/sead/context.h",
+		"/D/Github/Starlight/include/agl/RenderBuffer.h",
+		"/D/Github/Starlight/include/agl/RenderTargetColor.h",
+		"/D/Github/Starlight/source/main.cpp",
+		"/D/Github/Starlight/linkerscripts/syms100.ld",
+		"/C/Users/bfce/AppData/Roaming/yuzu/load/0100F8F0000A2000/disable static shadow map/exefs/bruh.pchtxt",
+		"/D/Github/Starlight/include/Cmn/StaticMem.h",
+		"/D/Github/Starlight/include/sead/thread.h",
+		"/D/Github/Starlight/include/Game/MainMgr.h",
+		"/D/Github/Starlight/include/agl/gpu.h",
+		"/D/Github/Starlight/include/agl/detail/MemoryPool.h",
+		"/D/Github/Starlight/include/agl/utl/devtools.h",
+		"/D/bcat710.pchtxt",
+		"/D/Github/Starlight/include/nn/os.h",
+		"/D/Github/Starlight-Thog-hotfix-bss-segment/source/main.cpp",
+		"/D/Github/Starlight-Thog-hotfix-bss-segment/Makefile2",
+		"/D/Github/Starlight-Thog-hotfix-bss-segment/build100/Starlight-Thog-hotfix-bss-segment100.map",
+		"/D/Github/Starlight/include/ModuleObject.hpp",
+		"/D/lol.h",
+		"/D/Github/Starlight/Makefile2",
+		"/D/Github/Starlight/include/sead/drawcontext.h",
+		"/D/Github/Starlight/include/agl/driver/NVNsampler.h",
+		"/D/Github/Starlight/include/agl/texturesampler.h",
+		"/D/Github/Starlight/include/agl/driver/NVNtexture.h",
+		"/D/Github/Starlight/include/Cmn/PlayerInfo.h",
+		"/D/Github/Starlight/include/agl/utl/DynamicTextureAllocator.h",
+		"/C/Program Files/WindowsApps/Microsoft.MinecraftUWP_1.11.102.0_x64__8wekyb3d8bbwe/data/shaders/glsl/nvn.h",
+		"/D/Github/Starlight/include/agl/detail/MemoryPoolHeap.h",
+		"/D/Github/Starlight/include/agl/detail/Surface.h",
+		"/D/Github/Starlight/include/sead/string.h",
+		"/D/Github/Starlight/include/agl/DisplayList.h",
+		"/D/Github/Starlight/include/sead/buffer.h",
+		"/D/Github/Starlight/include/Game/PlayerGamePadData/FrameInput.h",
+		"/D/Github/Starlight/scripts/genpatch.py",
+		"/D/Github/Starlight/patches/example.json"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"brw.currentSorting",
+			"tinyurl",
+			"year",
+			"right-click here",
+			"Value =",
+			"modal",
+			"MAIN_RAM_SIZE",
+			"MainRAM",
+			"selection state",
+			"selected",
+			"NDS",
+			"clipper",
+			"LineHeight",
+			";\n",
+			"With Border",
+			"IniFilename",
+			"imgui.ini",
+			"checkbox",
+			"begin",
+			":\n",
+			"printarmregisters",
+			"printarmrregisters",
+			"target_include_directories(glad PUBLIC include/)",
+			"rc_src",
+			"InputText",
+			"TextInput",
+			"TextInput'",
+			"Filtered Text Input",
+			"cols\"",
+			"cols",
+			"Range",
+			"range:",
+			"range-"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 18,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/libui_sdl/melondbg/memoryeditor.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/libui_sdl/melondbg/window.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/libui_sdl/melondbg/window.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								236
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <string>",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/libui_sdl/imgui/imgui_demo.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 232941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124903,
+								124553
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 40371.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/libui_sdl/melondbg/registers.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/libui_sdl/melondbg/registers.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/libui_sdl/melondbg/memoryeditor.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/libui_sdl/melondbg/disassembler.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1857,
+								1857
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								827,
+								827
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/ProgramData/ShokoServer/settings.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 19.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/D/zehn/skins/Zehn/scripts/helpers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2027,
+								2027
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/D/zehn/skins/Zehn/scripts/common.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/D/zehn/skins/Zehn/scripts/button.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1256,
+								1256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/D/zehn/skins/Zehn/scripts/guiext.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2602,
+								2602
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1026.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/D/zehn/skins/Zehn/scripts/lodash.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34862,
+								34862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/D/zehn/skins/Zehn/scripts/panel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1923,
+								1923
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/D/smb2maglx3/SMBX2 MAGLX3/data/scripts/blocks/newblocks.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 20230.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/Program Files (x86)/foobar2000/themes/eole/js/WSHlibrary_tree.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 192029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50221,
+								50221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/C/Users/Khang/AppData/Roaming/yuzu/load/010000A00218E000/dbgsetting/exefs/patches.pchtxt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								366,
+								366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/D/zehn/skins/Zehn/scripts/rating.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1818,
+								1818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/svg2desmos.sublime-build",
+	"project": "stuff.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 341.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
